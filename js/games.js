@@ -7,6 +7,7 @@ window.JARAM_SHELVES = [
       { name: "포켓몬 도감 퀴즈", line: "단서를 읽고 포켓몬 이름 맞히기", cover: "poketmon-quiz", url: "https://ian939.github.io/poketmon-quiz/" },
       { name: "포켓몬 윷놀이", line: "포켓몬이 말이 되는 가족 윷놀이", cover: "pokemon-yut", url: "https://ian939.github.io/pokemon-yut/" },
       { name: "포켓몬 사다리 대모험", line: "사다리 타고 로켓단 피해 수학·영어 퀴즈", cover: "pokemon-ladder", url: "https://ian939.github.io/pokemon-ladder/" },
+      { name: "포켓몬 구조대", line: "길을 돌리고 밀어 포켓몬센터까지 잇기", cover: "pokemon-rescue", url: "https://ian939.github.io/pokemon-rescue/" },
       { name: "로켓단 폭탄 돌리기", line: "넷이 둘러앉아 푸는 숫자 퀴즈", cover: "rocket-bomb", url: "https://ian939.github.io/rocket-bomb/" },
       { name: "포켓몬 미스터리 구조대", line: "살펴보고 생각해서 사건 풀기", cover: "pokemon-mystery-rescue", url: "https://ian939.github.io/pokemon-mystery-rescue/" },
       { name: "잉글리시몬", line: "영어 단어 맞히고 포켓몬 모으기", cover: "english-mon", url: "https://ian939.github.io/english-mon/" }
